@@ -1,6 +1,2 @@
 đây là file
-<<<<<<< HEAD
 thuộc branch main và demo
-=======
-thuộc branch: demo
->>>>>>> demo
