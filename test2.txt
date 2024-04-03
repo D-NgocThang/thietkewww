@@ -1,1 +1,5 @@
-demo
+<<<<<<< HEAD
+file cua demo
+=======
+file thuoc cua main va demo 
+>>>>>>> main
